@@ -1,7 +1,7 @@
 function lerTemperatura(){
-    return 25
+    return 28
 }
 
-MediaSourceHandle.exports = {
+module.exports = {
     lerTemperatura
 }
